@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "hi we are in ansible devops platform";
+echo "Elastick Beanstalk conncted with Docker Platform";
 ?>
 
 </body>
