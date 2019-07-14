@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Elastick Beanstalk conncted with Docker Platform";
+echo "Elastick Beanstalk conncted with code pipeline with codecommit ";
 ?>
 
 </body>
